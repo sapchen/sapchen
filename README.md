@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### 📱 欢迎关注我的微信公众号
 
-[![扫码关注公众号](https://img.shields.io/badge/宸良手纪-点击扫码关注-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://sapchen.github.io/sapchen/qr.html)
+[![扫码关注公众号](https://img.shields.io/badge/宸良手纪-点击扫码关注-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://sapchen.github.io/sapchen/)
 
 <!--
 **sapchen/sapchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
