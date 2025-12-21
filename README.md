@@ -1,11 +1,11 @@
 ## 🚀 Featured Projects
-**[📄 Interactive Resume](https://sapchen.github.io/resume-chenliang)** 现代交互式简历
+现代交互式简历：**[📄 Interactive Resume](https://sapchen.github.io/resume-chenliang)** 
 
-**[🎬 AI Video Gallery](https://sapchen.github.io/ai-video-gallery/)** 原创AI视频作品集
+原创AI视频作品集：**[🎬 AI Video Gallery](https://sapchen.github.io/ai-video-gallery/)** 
 
-**[🔧 Home Repair Manual](https://sapchen.github.io/home-repair-manual/)** 家庭维修知识库
+家庭维修知识库：**[🔧 Home Repair Manual](https://sapchen.github.io/home-repair-manual/)** 
 
-**[🍳 Smart Cookbook](https://sapchen.github.io/Chenliang-Home-Dishes/)** 智能家常菜指南
+智能家常菜指南：**[🍳 Smart Cookbook](https://sapchen.github.io/Chenliang-Home-Dishes/)** 
 
 ## 🌟 Current Focus
 🔭 Deepening Home Repair Knowledge Base...
